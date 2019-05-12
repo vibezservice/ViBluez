@@ -1,0 +1,38 @@
+{
+  "name": "vibluez",
+  "version": "1.3.388",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bleno": "^0.5.0",
+    "is-online": "^7.0.0",
+    "net-ping": "^1.2.1",
+    "network": "^0.4.1",
+    "node-cmd": "^3.0.0",
+    "pi-wifi": "^1.2.0",
+    "ps-node": "^0.1.6",
+    "ps-tree": "^1.1.0",
+    "python-shell": "^0.4.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.85.0",
+    "shelljs": "^0.8.1",
+    "sleep": "^5.1.1",
+    "socket.io-client": "^2.1.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibezservice/ViBluez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibezservice/ViBluez/issues"
+  },
+  "homepage": "https://github.com/vibezservice/ViBluez#readme"
+}
